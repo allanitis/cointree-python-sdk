@@ -2,9 +2,9 @@
 An SDK for the Cointree exchange API 
 
 ## Setup
-Set environment variables:
-COINTREE_API_KEY = "<your_api_key>"
-COINTREE_SECRET_KEY = "<your_precious_secret>" 
+Set environment variables:  
+`os.environ['COINTREE_API_KEY'] = "<your_api_key>" `  
+`os.environ['COINTREE_SECRET_KEY'] = "<your_precious_secret>"  `
 
 ## Example Usage
 ```python
